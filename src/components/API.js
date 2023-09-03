@@ -27,7 +27,6 @@ const API = () => {
 
   // invoking the fetch function
   useEffect(() => {
-    setIsLoading(true);
     fetchUserData();
     setIsLoading(false);
   }, []);

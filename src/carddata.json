@@ -1,0 +1,28 @@
+{
+  "homecards": [
+    {
+      "id": 1,
+      "img": "./images/Laptop.jpeg",
+      "Product": "Laptop",
+      "Price": "#250,000",
+      "desc": "HP Laptop 15 - Intel Pentium- 1TB Hard Drive - 8GB RAM - Windows 10 - 10th Gen-Silver",
+      "link": "See more"
+    },
+    {
+      "id": 2,
+      "img": "./images/Powerstation.jpeg",
+      "Product": "Power Station",
+      "Price": "#139,500",
+      "desc": "Yoobao Laptop Power Bank - Generator Power Station - 72000mAh",
+      "link": "See more"
+    },
+    {
+      "id": 3,
+      "img": "./images/Drone.jpeg",
+      "Product": "Avoidance Quadcopter Drone",
+      "Price": "#229,999",
+      "desc": "Professional Wifi 4K HD Camera Drone GPS 5G FPV 25mins Long-range Obstacle Avoidance Quadcopter Drone With 2 Batteries",
+      "link": "See more"
+    }
+  ]
+}
